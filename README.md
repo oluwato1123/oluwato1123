@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud / DevOps Engineer
 -----------------------
 
-I have an undergraduate degree in Mathematics and a masters degree in Analytics, currently looking to transition into Cloud Engineering/DevOps Engineering from a data support role,
+My name is Tobi, I really enjoy learning about DevOps and Cloud Computing, I have an undergraduate degree in Mathematics and a masters degree in Analytics, currently looking to transition into Cloud Engineering/DevOps Engineering from a Data Support role,
 
 * 🌍  I'm based in Indianapolis, IN
 * 🖥️  See my portfolio at [https://medium.com/@oowofade](http://https://medium.com/@oowofade)
